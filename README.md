@@ -1,6 +1,6 @@
-Módulo de marcação de consultas para do Departamento de Qualidade de Vida da UFRPE para a disciplina de Desenvolvimento de Aplicações Web.
+# Módulo de Consultas do DQV
 
-# test-project
+Módulo de marcação de consultas para do Departamento de Qualidade de Vida da UFRPE para a disciplina de Desenvolvimento de Aplicações Web.
 
 > A Vue.js project
 
